@@ -1,0 +1,30 @@
+:root {
+  --whiteish: #fdf6e3;
+  --lighblue: #4cc2df;
+}
+
+body {
+  background: #ebebdd;
+}
+
+.group-item {
+  background: var(--whiteish);
+}
+
+.card-header {
+  background: var(--lighblue);
+}
+
+.card-body {
+  background: var(--whiteish);
+}
+
+.team-heading {
+  background: var(--lighblue);
+}
+
+@media (max-width: 768px) {
+  .team-area {
+    flex-direction: column;
+  }
+}
