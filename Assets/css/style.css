@@ -1,6 +1,6 @@
 :root {
   --whiteish: #fdf6e3;
-  --lighblue: #4cc2df;
+  --lightpurple: #a872de;
 }
 
 body {
@@ -11,8 +11,15 @@ body {
   background: var(--whiteish);
 }
 
+.employee-card {
+  margin: 10px;
+  border-style: solid;
+  border-color: var(--lightpurple);
+  border-radius: 0.35rem;
+}
+
 .card-header {
-  background: var(--lighblue);
+  background: var(--lightpurple);
 }
 
 .card-body {
@@ -20,7 +27,7 @@ body {
 }
 
 .team-heading {
-  background: var(--lighblue);
+  background: var(--lightpurple);
 }
 
 @media (max-width: 768px) {

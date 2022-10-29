@@ -8,7 +8,7 @@ const render = (employees) => {
 
   html.push(
     ...employees
-      .filter((employees) => employee.getRole() === "Manager")
+      .filter((employee) => employee.getRole() === "Manager")
       .map((manager) => renderManager(manager))
   );
   html.push(
