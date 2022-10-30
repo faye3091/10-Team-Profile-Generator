@@ -73,7 +73,7 @@ be displayed in a new HTML file.
 
 ## Video Demo
 
-![Video Demo](https://drive.google.com/file/d/1W4YJOS0LE20xE7FEaSl_KG0EzHBoF-Pp/view)
+[Video Demo](https://drive.google.com/file/d/1W4YJOS0LE20xE7FEaSl_KG0EzHBoF-Pp/view)
 
 ## Sample Output
 
