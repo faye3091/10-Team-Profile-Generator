@@ -11,6 +11,7 @@ Your challenge is to build a Node.js command-line application that takes in info
 - [Installation](#installation)
 - [Usage](#usage)
 - [Video Demo](#video-demo)
+- [Sample Output](#sample-output)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -61,7 +62,7 @@ Run Team Profile Generator using the following command in the terminal:
 
 `node server.js`
 
-
+![Screenshot](./Assets/images/Node%20server.js.png)
 
 ## Usage
 
@@ -70,11 +71,13 @@ a team of software engineer employees with different roles.
 After the user completes the prompts then the team will
 be displayed in a new HTML file.
 
-
-
 ## Video Demo
 
-[Video Demo]()
+![Video Demo](https://drive.google.com/file/d/1W4YJOS0LE20xE7FEaSl_KG0EzHBoF-Pp/view)
+
+## Sample Output
+
+![Screenshot](./Assets/images/Sample%20Team.png)
 
 ## Contributing
 
