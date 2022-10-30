@@ -238,6 +238,9 @@ function addMember() {
     }
   });
 }
+console.log(
+  "Hello! \nTo Generate a Team, \n Please answer the following questions. \n Your team will be set up in the output folder team.html file."
+);
 inquirer.prompt(managerQuestion).then((managerAnswers) => {
   //use the manager constructor for a new instance of Manager
   let newManager = new Manager(

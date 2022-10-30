@@ -10,6 +10,7 @@ Your challenge is to build a Node.js command-line application that takes in info
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video Demo](#video-demo)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -46,11 +47,34 @@ THEN I exit the application, and the HTML is generated
 
 ## Installation
 
-Install the necessary packages using install npm i
+Install the necessary packages using the following command in the terminal:
+
+`install npm i`
+
+Test Team Profile Generator using the following command in the terminal:
+
+`npm run test`
+
+![Screenshot](./Assets/images/Test%20runs.png)
+
+Run Team Profile Generator using the following command in the terminal:
+
+`node server.js`
+
+
 
 ## Usage
 
-Once node index.js is ran, user will get prompted to ask questions
+Using the command line application a user can build
+a team of software engineer employees with different roles.
+After the user completes the prompts then the team will
+be displayed in a new HTML file.
+
+
+
+## Video Demo
+
+[Video Demo]()
 
 ## Contributing
 
